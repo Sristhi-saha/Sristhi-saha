@@ -36,7 +36,7 @@ I believe problem-solving is a skill built through consistency and practice. I'm
 `Arrays` · `Strings` · `Binary Search` · `Recursion` · `Linked Lists` · `Stacks & Queues` · `Sliding Window` · `Heaps` · `Hashing` · `Trees` · `Dynamic Programming`
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/Sristhi_saha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -136,7 +136,7 @@ I believe problem-solving is a skill built through consistency and practice. I'm
   <a href="https://www.linkedin.com/in/sristhi-saha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Sristhi_saha" target="_blank">
+  <a href="https://github.com/Sristhi-saha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/Sristhi_saha/" target="_blank">
