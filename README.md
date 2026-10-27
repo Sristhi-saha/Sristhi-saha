@@ -139,7 +139,7 @@ I believe problem-solving is a skill built through consistency and practice. I'm
   <a href="https://github.com/Sristhi_saha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/Sristhi-saha" target="_blank">
+  <a href="https://leetcode.com/Sristhi_saha/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
