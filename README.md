@@ -42,7 +42,7 @@ I believe problem-solving is a skill built through consistency and practice. I'm
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sristhi-saha?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Sristhi_saha?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
