@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing **BCA 3rd Year**
+- 🎓 Currently pursuing **BCA 4th Year**
 - 💻 Full Stack Developer with experience in frontend, backend, and WordPress development
 - 🧠 Practicing **Data Structures and Algorithms (DSA)** and solving problems on LeetCode
 - 🚀 Building full-stack applications and exploring AI-powered solutions
@@ -139,7 +139,7 @@ I believe problem-solving is a skill built through consistency and practice. I'm
   <a href="https://github.com/Sristhi_saha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/sristhi-saha" target="_blank">
+  <a href="https://leetcode.com/Sristhi-saha" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
